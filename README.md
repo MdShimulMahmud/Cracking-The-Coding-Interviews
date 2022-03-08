@@ -1,6 +1,6 @@
 # Cracking-The-Coding-Interviews
-Basically it will be the leetcode based problems solving skills .
-I will try to solve some important questions from leetcode to crack the coding interviews for future placements in a reputed companies.
-#Leetcode <br> #ProblemSolving
+Basically, it will be the LeetCode based problems solving skills.
+I will try to solve some important questions from LeetCode to crack the coding interviews for future placements in a reputed company.
+<br>#LeetCode  #ProblemSolving
 <br> 
-<a src="https://leetcode.com/">Leetcode</a>
+https://leetcode.com/
